@@ -1,0 +1,48 @@
+\chapter{Material e Métodos}
+\section {Considerações Iniciais}
+Essa é a área "Material e Métodos".
+
+Nela, você deve discriminar o que foi adotado até o momento, ou prováveis métodos a serem usados para solucionar o problema. Indicar como e onde os dados serão obtidos
+
+
+Abaixo, um exemplo de tabela, possivelmente útil nessa etapa do trabalho \ref{tb:tabela_dados}.
+
+\begin{table}[htbp]
+\caption{Exemplo de dados em tabelas}
+\label{tb:tabela_dados}
+\centering
+\setlength{\tabcolsep}{5pt}
+\begin{tabular}{cccccc}
+\hline
+Coluna 1  &Coluna 2  &Coluna 3 \\
+L2Col1 &L2Col2 &L2Col3 \\
+\hline
+Dado1C1 &100 &200 \\
+Dado2C1 &300 &400 \\
+\hline
+\textbf{Total} &\textbf{400} &\textbf{600} \\
+\hline
+\end{tabular}
+\\
+\text{\footnotesize Fonte: O autor}
+\end{table}
+
+\section{Exemplo de Código Fonte}
+\subsection{ Teste de subseção}
+Esse é um exemplo de código fonte ~\ref{code:exemplo_fonte}, que também pode ser útil nessa etapa do projeto de pesquisa.
+
+%\lstset{frame=Trbl,numbers=left}
+\begin{lstlisting}[caption={Exemplo de código fonte}, language=Python, label=code:exemplo_fonte]
+	# Python program to check if the input number
+	# is odd or even.
+	# A number is even if division by 2 gives a
+	# remainder of 0.
+	# If the remainder is 1, it is an odd number.
+	
+	num = int(input("Enter a number: "))
+	if (num % 2) == 0:
+		print("{0} is Even".format(num))
+	else:
+		print("{0} is Odd".format(num))
+\end{lstlisting}	
+

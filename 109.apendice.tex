@@ -1,0 +1,33 @@
+% ----------------------------------------------------------
+% Apêndices
+% ----------------------------------------------------------
+
+% ---
+% Inicia os apêndices
+% ---
+\begin{apendicesenv}
+	
+	% Imprime uma página indicando o início dos apêndices
+	%\partapendices
+	
+	\renewcommand{\thetable}{\Alph{chapter}\arabic{table}}
+	\setcounter{table}{0}
+	\clearpage
+		\begingroup%
+		\makeatletter%
+		\let\clearpage\relax
+		\vspace*{\fill}%
+		\vspace*{\dimexpr-50\p@-\baselineskip}
+		\chapter{EXEMPLO DE APENDICE}
+		% inserir aqui o texto do apendice via \input{}
+		\vspace*{\fill}%
+		\endgroup 
+	\clearpage
+
+	% ----------------------------------------------------------
+	
+	Texto do apendice. Lembre-se: apendices são materiais elaborados pelo próprio autor.
+	
+	
+\end{apendicesenv}
+% ---

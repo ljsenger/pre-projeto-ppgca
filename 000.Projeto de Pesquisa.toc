@@ -1,0 +1,47 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeUppercase []{Identificação}}{9}{chapter.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeUppercase []{Introdução}}{10}{chapter.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeUppercase []{Objetivos}}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Objetivo Geral}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Objetivos Específicos}{11}{section.3.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeUppercase []{Revisão da Literatura}}{12}{chapter.4}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeUppercase []{Material e Métodos}}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Considerações Iniciais}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Exemplo de Código Fonte}{13}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1} Teste de subseção}{13}{subsection.5.2.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeUppercase []{Conclusão}}{14}{chapter.6}%
+\contentsline {section}{\numberline {6.1}As transformações ocorridas na trajetória de pesquisa}{14}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Estágio atual da pesquisa}{14}{section.6.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeUppercase []{Cronograma}}{15}{chapter.7}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeUppercase []{Publicações resultantes do projeto}}{16}{chapter.8}%
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeUppercase []{Refer\^encias}}{17}{section*.16}%
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeUppercase []{EXEMPLO DE APENDICE}}{18}{appendix.A}%
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\MakeUppercase []{Exemplo de Anexo}}{20}{appendix.anexochapback.1}%
